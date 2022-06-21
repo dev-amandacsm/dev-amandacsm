@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dev-amandacsm
 - 👀 I’m interested in MPB, classical and pop music, technology, astronomy, systems development and reading
-- 🌱 I’m currently learning Fast and Slow: The Two Way of Thinking
+- 🌱 I’m currently reading Fast and Slow: The Two Way of Thinking
 - 📫 How to reach me:
 - Linkedin: https://www.linkedin.com/in/amanda-cs-muniz/
 - Facebook: https://www.facebook.com/amanda.muniz.585559/
