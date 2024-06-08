@@ -1,6 +1,4 @@
 - 👋 Hi, I’m @dev-amandacsm
-- 👀 I’m interested in Gospel, classical and pop music, technology, watching movies, systems development and reading
-- 🌱 I’m currently reading Fast and Slow: The Wizard of Oz
 - 📫 How to reach me:
 - Linkedin: https://www.linkedin.com/in/amanda-cs-muniz/
 - Intagram: https://instagram.com/_amandacsmuniz?igshid=OGQ5ZDc2ODk2ZA==
